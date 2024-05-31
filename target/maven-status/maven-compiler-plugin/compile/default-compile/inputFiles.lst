@@ -1,0 +1,5 @@
+/home/carlos/eclipse-workspace/jsf-project-crud/src/main/java/com/github/datenmuehle/model/Pessoa.java
+/home/carlos/eclipse-workspace/jsf-project-crud/src/main/java/com/github/datenmuehle/util/JPAUtil.java
+/home/carlos/eclipse-workspace/jsf-project-crud/src/main/java/com/github/datenmuehle/bean/PessoaBean.java
+/home/carlos/eclipse-workspace/jsf-project-crud/src/main/java/com/github/datenmuehle/dao/PessoaDAO.java
+/home/carlos/eclipse-workspace/jsf-project-crud/src/main/java/com/github/datenmuehle/model/Endereco.java

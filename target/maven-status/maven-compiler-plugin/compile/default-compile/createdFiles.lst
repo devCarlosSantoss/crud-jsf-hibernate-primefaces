@@ -1,0 +1,5 @@
+com/github/datenmuehle/model/Endereco.class
+com/github/datenmuehle/model/Pessoa.class
+com/github/datenmuehle/util/JPAUtil.class
+com/github/datenmuehle/bean/PessoaBean.class
+com/github/datenmuehle/dao/PessoaDAO.class
